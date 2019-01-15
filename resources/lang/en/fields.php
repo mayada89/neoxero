@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'users' => 'Users',
+    'add_user' => 'Add User',
+    'view_users' => 'View Users',
+    'companies' => 'Companies',
+    'add_company' => 'Add Company',
+    'view_companies' => 'View Companies',
+    'admin_menu' => 'Admin Menu',
+    'id' => 'ID',
+    'first_name' => 'First Name',
+    'last_name' => 'Last Name',
+    'email' => 'Email',
+    'password' => 'Password',
+    'phone' => 'Phone',
+    'email_verified_at' => 'Email Verified At',
+    'role_id' => 'Role',
+    'company_id' => 'Company',
+    'active' => 'Active',
+    'remember_token' => 'Remember Token',
+    'created_at' => 'Created at',
+    'updated_at' => 'Updated at',
+    'submit' => 'Submit',
+    'cancel' => 'Cancel',
+    'choose' => 'Please Choose',
+    'name' => 'Name',
+    'company' => 'Company',
+    'yes' => 'Yes' , 'no' => 'No',
+    'logo' => 'Logo' ,'website' => 'Website'
+];
